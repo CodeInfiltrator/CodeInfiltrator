@@ -1,5 +1,5 @@
-# 💫 About Me:
-### 🥷🏻 I'm a Computer Science student at Binus University.
+# 👋 Hello there, I'm Frizzia Darren:
+🥷🏻 Meet Frizzia, a passionate student with a passion for creating engaging digital experiences. He is also an accomplished basketball player and modelling. Frizzia is known for his consistency, discipline, and resilience, which he applies to all aspects of his life. He is eager to learn and collaborate with others to build innovative web solutions. Feel free to connect and explore the potential of working together through contact.
 
 
 ## 🌐 Socials:
