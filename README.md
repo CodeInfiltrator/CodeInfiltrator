@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥷🏻 I'm a computer science student at Binus University
+🥷🏻 I'm a computer science student at Binus University.
 
 
 ## 🌐 Socials:
