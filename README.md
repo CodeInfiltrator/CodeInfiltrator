@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://open.kattis.com/users/darren-frizzia" target="_blank">
-      <img src="https://open.kattis.com/images/site-logo?v=0a3f6018aacf449381741e45cf0ff6ba" alt="Kattis" style="width: 120px; height: auto;">
+      <img src="https://img.shields.io/badge/Kattis-00A3E0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/4bM5wAAAABJRU5ErkJggg==" alt="Kattis">
     </a>
     <a href="https://medium.com/@efdarrens" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
@@ -40,3 +40,4 @@
     </a>
   </p>
 </div>
+
