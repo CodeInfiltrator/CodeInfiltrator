@@ -11,14 +11,13 @@
 
  
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=CodeInfiltrator&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInfiltrator&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeInfiltrator&theme=tokyonight&hide_border=false)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CodeInfiltrator&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInfiltrator&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
 
 [![](https://visitcount.itsvg.in/api?id=CodeInfiltrator&icon=1&color=11)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <strong>🌐 Connect With Me</strong>
+<p align="center" >
+  <strong>🌐 Connect With Me 🌐</strong>
 </p
 <div>
   <p align="center">
