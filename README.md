@@ -49,7 +49,7 @@
     <a href="https://www.instagram.com/frizzia_darren/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <!--     <a href="https://open.kattis.com/users/darren-frizzia" target="_blank"><img src="https://img.shields.io/badge/Kattis-00A3E0?style=for-the-badge&logo=kattis&logoColor=white" alt="Kattis"></a> -->
     <a href="https://medium.com/@efdarrens" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-    <a href="https://leetcode.com/efdarrens/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+<!--     <a href="https://leetcode.com/efdarrens/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a> -->
     <a href="https://www.hackerrank.com/efdarrens" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
   </p>
 </div>
