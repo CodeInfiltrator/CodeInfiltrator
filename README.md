@@ -52,5 +52,6 @@
     <a href="https://medium.com/@efdarrens" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <!--     <a href="https://leetcode.com/efdarrens/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a> -->
     <a href="https://www.hackerrank.com/efdarrens" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
+    <a href="https://www.sololearn.com/en/profile/30789198" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn"></a>
   </p>
 </div>
