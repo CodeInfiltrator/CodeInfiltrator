@@ -40,6 +40,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInfiltrator&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
 
 [![](https://visitcount.itsvg.in/api?id=CodeInfiltrator&icon=1&color=11)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=williamtheodoruswijaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center" >
   <strong>🌐 Connect With Me 🌐</strong>
