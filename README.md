@@ -2,6 +2,7 @@
 🥷🏻 Meet Frizzia! I'm deeply passionate about software engineering, with a keen interest in web development and front-end technologies. Alongside my coding pursuits, I stay active through sports and workouts, believing that a healthy body fosters a healthy mind. I enjoy reading books and tuning into podcasts to expand my knowledge. Consistency, dedication, and discipline are at the core of my approach to both my professional and personal life.
 
 ### Tech Languages
+ ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=orange)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
