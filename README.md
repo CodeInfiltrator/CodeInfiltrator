@@ -39,9 +39,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
  
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CodeInfiltrator&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInfiltrator&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInfiltrator&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240) -->
 
 [![](https://visitcount.itsvg.in/api?id=CodeInfiltrator&icon=1&color=11)](https://visitcount.itsvg.in)
 <p align="left">
