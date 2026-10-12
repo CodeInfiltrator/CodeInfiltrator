@@ -77,9 +77,7 @@ Beyond code, I'm involved in modeling, sports, and personal development. I belie
 
 ## 🐍 Contribution Flow
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeInfiltrator/CodeInfiltrator/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
