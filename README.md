@@ -101,3 +101,8 @@ Beyond code, I'm involved in modeling, sports, and personal development. I belie
 <p align="center">
   <i>Consistency over intensity. Progress over perfection. Always becoming better.</i>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=CodeInfiltrator&icon=1&color=11)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CodeInfiltrator&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
