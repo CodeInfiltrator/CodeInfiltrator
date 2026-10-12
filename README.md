@@ -84,25 +84,19 @@ Beyond code, I'm involved in modeling, sports, and personal development. I belie
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emanuelle-frizzia-darren-611254287/">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/frizzia_darren/">
-    <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@efdarrens">
-    <img src="https://img.shields.io/badge/Medium-READ-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://open.kattis.com/users/emanuelle-frizzia-darren">
-    <img src="https://img.shields.io/badge/Kattis-PROFILE-00A3E0?style=for-the-badge&logo=kattis&logoColor=white" alt="Kattis" />
-  </a>
+    <a href="https://www.linkedin.com/in/emanuelle-frizzia-darren-611254287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/frizzia_darren/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://open.kattis.com/users/emanuelle-frizzia-darren" target="_blank"><img src="https://img.shields.io/badge/Kattis-00A3E0?style=for-the-badge&logo=kattis&logoColor=white" alt="Kattis"></a>
+    <a href="https://medium.com/@efdarrens" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<!--     <a href="https://leetcode.com/u/frizziadarren/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a> -->
+    <a href="https://www.hackerrank.com/efdarrens" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
+    <a href="https://www.sololearn.com/en/profile/30789198" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn"></a>
 </p>
+
+---
 
 <p align="center">
   <i>Consistency over intensity. Progress over perfection. Always becoming better.</i>
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=CodeInfiltrator&icon=1&color=11)](https://visitcount.itsvg.in)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodeInfiltrator&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=CodeInfiltrator&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </p>
