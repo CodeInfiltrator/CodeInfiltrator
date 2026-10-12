@@ -95,8 +95,12 @@ Beyond code, I'm involved in modeling, sports, and personal development. I belie
 
 ---
 
+
 <p align="center">
   <i>Consistency over intensity. Progress over perfection. Always becoming better.</i>
   <br><br>
-  <img src="https://viewcounter.live/CodeInfiltrator?label=Profile%20Views&bg_color=58A6FF&text_color=FFFFFF" alt="Profile Views" />
+  <img
+    src="https://viewcounter.live/CodeInfiltrator?label=Profile%20Views&bg_color=58A6FF&text_color=FFFFFF"
+    alt="Profile Views"
+  />
 </p>
