@@ -3,7 +3,7 @@
 🎓 Computer Science Undergraduate · 💻 Software Engineering · 🏀 Athlete & Professional Model
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+;iOS+Developer+Web+Developer;Learning+Something+New+Every+Day;Discipline+Over+Motivation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;iOS+Developer;Web+Developer;Learning+Something+New+Every+Day;Discipline+Over+Motivation" alt="Typing SVG" />
 </p>
 
 I'm passionate about **software engineering, building meaningful digital experiences, and continuous self-improvement**.
