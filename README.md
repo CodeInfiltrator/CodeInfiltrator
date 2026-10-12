@@ -8,7 +8,7 @@
 
 I'm passionate about **software engineering, building meaningful digital experiences, and continuous self-improvement**.
 
-Currently exploring AI Web development, front-end technologies, and the Apple ecosystem while strengthening my problem-solving and engineering fundamentals.
+Currently exploring AI-powered development, vibe coding, and the Apple ecosystem, embracing emerging technologies to build smarter and more meaningful digital experiences.
 
 Beyond code, I'm involved in modeling, sports, and personal development. I believe that **discipline, consistency, and curiosity** are essential to becoming better — both as an engineer and as a person.
 
