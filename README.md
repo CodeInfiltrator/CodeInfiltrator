@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Frizzia Darrenss
+# 👋 Hey, I'm Frizzia Darrens
 
 🎓 Computer Science Undergraduate · 💻 iOS Developer · 🏀 Athlete & Professional Model
 
